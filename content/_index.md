@@ -1,7 +1,7 @@
 ---
 title: "skid.club"
 description: "a vulnerable service encyclopedia"
-lead: "a vulnerable service encyclopedia"
+lead: "a vulnerable service encyclopedia."
 date: 2024-10-26T16:33:54+02:00
 lastmod: 2024-10-26T16:33:54+02:00
 draft: false
